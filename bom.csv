@@ -1,0 +1,8 @@
+Item,Product Name,Description,Quantity,Unit Price (₹),Total Price (₹),Product Link,Running Total (₹ with 18% GST)
+1,Panasonic ERJ-2GEJ470X,47 Ω SMD Resistor 5% 1/10 W 0402,2,8.85,17.70,https://www.digikey.in/en/products/detail/panasonic-electronic-components/ERJ-2GEJ470X/1746272,20.89
+2,NXP NT3H2111W0FHKH,NFC IC 13.56 MHz 8-XQFN,2,96.49,192.98,https://www.digikey.in/en/products/detail/nxp-usa-inc/NT3H2111W0FHKH/5872977,249.68
+3,Murata GRM55DR72J224KW01L,0.22 µF 630 V X7R Ceramic Capacitor 2220,2,88.52,177.04,https://www.digikey.in/en/products/detail/murata-electronics/GRM55DR72J224KW01L/490-3520-1-ND,458.56
+4,VCC CMD17-21VYC/TR8,LED Yellow Clear 0805 SMD,2,58.42,116.84,https://www.digikey.in/en/products/detail/visual-communications-company-vcc/CMD17-21VYC-TR8/62407,680.57
+,,Subtotal,,,"₹504.56",,
+,,Shipping,,,"₹1,200.00",,
+,,Grand Total,,,"₹1,704.56",,
