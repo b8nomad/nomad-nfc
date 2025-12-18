@@ -1,0 +1,15 @@
+Item Number*,Designator*,Unit Quantity*,Description*,Manufacturer Part Number,Footprint,Value,Unit Price (USD),Line Cost (USD)
+1,U1,1,NFC RFID Transponder IC 13.56MHz,NT3H2111W0FHKH,XQFN-8,NT3H2111,1.19,1.19
+2,C1,1,MLCC Capacitor X7R 630V,GRM55DR72J224KW01L,2220,0.22µF,1.22,1.22
+3,R1–R57,57,Thick Film Resistor 5%,ERJ-6GEYJ470V,805,47Ω,0.02,1.12
+4,LED1–LED5,5,White SMD LED,L128-4080003500000,2835,White,0.24,1.22
+5,Printed Circuit Board Fabrication,1,,,,,,4.75
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+COST SUMMARY,,,,,,,,
+Category,Amount (USD),,,,,,,
+Components Total (incl GST & Shipping),6.92,,,,,,,
+PCB Fabrication Total (incl GST),13.68,,,,,,,
+Grand Total,20.6,,,,,,,
